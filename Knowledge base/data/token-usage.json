@@ -997,5 +997,23 @@
     "prompt_tokens": 440,
     "completion_tokens": 89,
     "total_tokens": 529
+  },
+  {
+    "ts": "2026-05-25T19:00:29.341Z",
+    "label": "assets",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 459,
+    "completion_tokens": 200,
+    "total_tokens": 659
+  },
+  {
+    "ts": "2026-05-25T19:01:37.294Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 414,
+    "completion_tokens": 80,
+    "total_tokens": 494
   }
 ]

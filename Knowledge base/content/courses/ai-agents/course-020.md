@@ -185,3 +185,15 @@ A business‑intelligence team builds an agent that can answer ad‑hoc question
 
 ---  
 *This course is designed to be self‑contained; all concepts, examples, and techniques are drawn from the source material and expanded with established best practices in AI agent engineering.*
+
+<!-- auto-diagram -->
+```mermaid
+flowchart LR
+    A[Prototype Agent] --> B[Prompt Caching]
+    B --> C[Tool Search]
+    C --> D[Programmatic Tool Calling]
+    D --> E[Compaction]
+    E --> F[Advisor Strategy]
+    F --> G[Production-Ready Agent]
+    G -->|Monitor & Iterate| B
+```
