@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+dist/
+.env
+.env*.local
+*.tsbuildinfo
+data/private/*
+!data/private/.gitkeep
+data/runs/*.json
+data/raw/tweets/*.json
+data/indexes/*.json
+data/transcripts/tmp/
+data/tasks/

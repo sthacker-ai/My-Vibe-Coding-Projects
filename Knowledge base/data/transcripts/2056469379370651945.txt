@@ -1,0 +1,26 @@
+Cloud design is one of the most powerful design tools that I've ever used because it makes everything insanely consistent, branded and professional and all you have to do is use your natural language.
+So in this masterclass, I'm going to take you from a complete beginner, maybe you've never even opened up cloud design before, all the way to an expert who can ship websites, videos, app demos, prototypes, whatever you want to do with cloud design.
+I'm going to show you guys the full process of me actually coming up with a company, building the branding, building the logo, building the guidelines and then creating a pitch deck, a website, mobile app prototype and a launch video.
+And we're going to do all of this step by step in cloud design and it is super simple and it's a lot of fun.
+I'm also going to be throughout the video talking about how do you actually get your money's worth and how do you make sure that you're not going through your cloud design session limit really quick.
+I've been playing around with this tool every day since it came out and I'm just going to be showing you guys everything that I know about how to get the most out of it.
+There's timestamps down below, make sure you save this one so you can come back and jump around whenever you need and let's not waste any time and just get straight into this video.
+Well, let's just go ahead and jump right in.
+So cloud design, this is going to be super fun.
+What is it?
+It is basically a separate product.
+So it's almost like you've got your cloud chat, you've got co-work, you've got cloud code.
+This is a different app within sort of the anthropic ecosystem called cloud design.
+And it's specifically made for people to work on designing things, whether that is websites or slide decks or, you know, prototypes.
+A lot of people when this was released was calling it the Figma killer.
+You can share design systems across your team.
+You can export designs from cloud design into cloud code or to Canva or as zips or as HTML.
+So we're going to be diving into all of that today.
+So we're going to be looking at sort of three different acts, different stuff going to be going on.
+We're going to be starting with foundations.
+So looking at what's actually going on inside of cloud design, getting set up.
+We're going to do some builds.
+So I'm going to go through some real scenarios.
+We're basically going to set up a brand together.
+So I'm going to show you guys how I ideated on a new brand, a new business.
+And then I used a combination of cloud design and some other tools in order to really bring that brand to life.

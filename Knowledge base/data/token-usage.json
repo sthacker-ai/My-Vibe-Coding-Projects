@@ -1,0 +1,974 @@
+[
+  {
+    "ts": "2026-05-24T11:51:51.660Z",
+    "label": "classify-2053766046406852972",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 345,
+    "completion_tokens": 200,
+    "total_tokens": 545
+  },
+  {
+    "ts": "2026-05-24T11:51:55.821Z",
+    "label": "classify-retry-2053766046406852972",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 366,
+    "completion_tokens": 200,
+    "total_tokens": 566
+  },
+  {
+    "ts": "2026-05-24T11:52:03.220Z",
+    "label": "classify-2053874586765152727",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 379,
+    "completion_tokens": 200,
+    "total_tokens": 579
+  },
+  {
+    "ts": "2026-05-24T11:52:15.607Z",
+    "label": "classify-retry-2053874586765152727",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 400,
+    "completion_tokens": 200,
+    "total_tokens": 600
+  },
+  {
+    "ts": "2026-05-24T11:54:11.287Z",
+    "label": "classify-2054175560641708502",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 321,
+    "completion_tokens": 117,
+    "total_tokens": 438
+  },
+  {
+    "ts": "2026-05-24T11:54:14.656Z",
+    "label": "classify-2054178069653418477",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 397,
+    "completion_tokens": 139,
+    "total_tokens": 536
+  },
+  {
+    "ts": "2026-05-24T11:54:22.182Z",
+    "label": "classify-2054225085100151163",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 397,
+    "completion_tokens": 80,
+    "total_tokens": 477
+  },
+  {
+    "ts": "2026-05-24T11:54:27.284Z",
+    "label": "classify-2054230468745207916",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 385,
+    "completion_tokens": 67,
+    "total_tokens": 452
+  },
+  {
+    "ts": "2026-05-24T11:56:09.497Z",
+    "label": "classify-2054245904258142593",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 354,
+    "completion_tokens": 161,
+    "total_tokens": 515
+  },
+  {
+    "ts": "2026-05-24T11:56:32.799Z",
+    "label": "classify-2054250035211116589",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 388,
+    "completion_tokens": 155,
+    "total_tokens": 543
+  },
+  {
+    "ts": "2026-05-24T11:56:38.581Z",
+    "label": "classify-2054255152555545079",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 403,
+    "completion_tokens": 200,
+    "total_tokens": 603
+  },
+  {
+    "ts": "2026-05-24T11:56:41.666Z",
+    "label": "classify-retry-2054255152555545079",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 424,
+    "completion_tokens": 167,
+    "total_tokens": 591
+  },
+  {
+    "ts": "2026-05-24T11:57:05.768Z",
+    "label": "classify-2054261140192960969",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 356,
+    "completion_tokens": 200,
+    "total_tokens": 556
+  },
+  {
+    "ts": "2026-05-24T11:57:09.908Z",
+    "label": "classify-retry-2054261140192960969",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 377,
+    "completion_tokens": 137,
+    "total_tokens": 514
+  },
+  {
+    "ts": "2026-05-24T11:57:33.961Z",
+    "label": "classify-2054261832718889216",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 372,
+    "completion_tokens": 103,
+    "total_tokens": 475
+  },
+  {
+    "ts": "2026-05-24T11:57:46.631Z",
+    "label": "classify-2054275084265882011",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 410,
+    "completion_tokens": 154,
+    "total_tokens": 564
+  },
+  {
+    "ts": "2026-05-24T11:58:07.785Z",
+    "label": "classify-2054278572018159793",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 400,
+    "completion_tokens": 200,
+    "total_tokens": 600
+  },
+  {
+    "ts": "2026-05-24T11:58:30.283Z",
+    "label": "classify-retry-2054278572018159793",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 421,
+    "completion_tokens": 200,
+    "total_tokens": 621
+  },
+  {
+    "ts": "2026-05-24T12:00:10.194Z",
+    "label": "classify-2054309254895456574",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 297,
+    "completion_tokens": 122,
+    "total_tokens": 419
+  },
+  {
+    "ts": "2026-05-24T12:00:19.630Z",
+    "label": "classify-2054309307492290988",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 341,
+    "completion_tokens": 118,
+    "total_tokens": 459
+  },
+  {
+    "ts": "2026-05-24T12:00:28.186Z",
+    "label": "classify-2054339587858997736",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 373,
+    "completion_tokens": 200,
+    "total_tokens": 573
+  },
+  {
+    "ts": "2026-05-24T12:00:43.211Z",
+    "label": "classify-retry-2054339587858997736",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 394,
+    "completion_tokens": 162,
+    "total_tokens": 556
+  },
+  {
+    "ts": "2026-05-24T12:00:52.509Z",
+    "label": "classify-2054375128277119283",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 414,
+    "completion_tokens": 153,
+    "total_tokens": 567
+  },
+  {
+    "ts": "2026-05-24T12:01:01.528Z",
+    "label": "classify-2054405527312969840",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 357,
+    "completion_tokens": 148,
+    "total_tokens": 505
+  },
+  {
+    "ts": "2026-05-24T12:01:16.902Z",
+    "label": "classify-2054405672176091449",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 315,
+    "completion_tokens": 197,
+    "total_tokens": 512
+  },
+  {
+    "ts": "2026-05-24T12:01:58.068Z",
+    "label": "classify-2054408426328096837",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 274,
+    "completion_tokens": 165,
+    "total_tokens": 439
+  },
+  {
+    "ts": "2026-05-24T12:02:10.234Z",
+    "label": "classify-2054431554240201008",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 239,
+    "completion_tokens": 95,
+    "total_tokens": 334
+  },
+  {
+    "ts": "2026-05-24T12:02:27.963Z",
+    "label": "classify-2054503080100855916",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 294,
+    "completion_tokens": 198,
+    "total_tokens": 492
+  },
+  {
+    "ts": "2026-05-24T12:02:39.554Z",
+    "label": "classify-2054583150257328259",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 342,
+    "completion_tokens": 164,
+    "total_tokens": 506
+  },
+  {
+    "ts": "2026-05-24T12:02:46.666Z",
+    "label": "classify-2054617939123605898",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 327,
+    "completion_tokens": 79,
+    "total_tokens": 406
+  },
+  {
+    "ts": "2026-05-24T12:02:53.664Z",
+    "label": "classify-2054628957354684876",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 358,
+    "completion_tokens": 189,
+    "total_tokens": 547
+  },
+  {
+    "ts": "2026-05-24T12:03:03.342Z",
+    "label": "classify-2054652251894170060",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 404,
+    "completion_tokens": 170,
+    "total_tokens": 574
+  },
+  {
+    "ts": "2026-05-24T12:03:12.145Z",
+    "label": "classify-2054656658908000314",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 369,
+    "completion_tokens": 117,
+    "total_tokens": 486
+  },
+  {
+    "ts": "2026-05-24T12:05:02.984Z",
+    "label": "classify-2054680867377754148",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 405,
+    "completion_tokens": 200,
+    "total_tokens": 605
+  },
+  {
+    "ts": "2026-05-24T12:05:11.540Z",
+    "label": "classify-retry-2054680867377754148",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 426,
+    "completion_tokens": 157,
+    "total_tokens": 583
+  },
+  {
+    "ts": "2026-05-25T04:08:55.439Z",
+    "label": "classify-2053495306235347100",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 422,
+    "completion_tokens": 152,
+    "total_tokens": 574
+  },
+  {
+    "ts": "2026-05-25T04:09:07.645Z",
+    "label": "classify-2053566155571560868",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 203,
+    "completion_tokens": 94,
+    "total_tokens": 297
+  },
+  {
+    "ts": "2026-05-25T04:09:30.990Z",
+    "label": "classify-2053691272288965029",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 268,
+    "completion_tokens": 192,
+    "total_tokens": 460
+  },
+  {
+    "ts": "2026-05-25T04:13:16.401Z",
+    "label": "course-2053495306235347100",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1017,
+    "completion_tokens": 4127,
+    "total_tokens": 5144
+  },
+  {
+    "ts": "2026-05-25T04:15:49.840Z",
+    "label": "course-2053566155571560868",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 766,
+    "completion_tokens": 3282,
+    "total_tokens": 4048
+  },
+  {
+    "ts": "2026-05-25T04:19:08.682Z",
+    "label": "course-2053691272288965029",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 857,
+    "completion_tokens": 4034,
+    "total_tokens": 4891
+  },
+  {
+    "ts": "2026-05-25T04:23:16.065Z",
+    "label": "course-2054278572018159793",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 993,
+    "completion_tokens": 6000,
+    "total_tokens": 6993
+  },
+  {
+    "ts": "2026-05-25T04:27:08.011Z",
+    "label": "course-2054298898902966377",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 958,
+    "completion_tokens": 4598,
+    "total_tokens": 5556
+  },
+  {
+    "ts": "2026-05-25T04:29:58.633Z",
+    "label": "course-2054431554240201008",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 815,
+    "completion_tokens": 4190,
+    "total_tokens": 5005
+  },
+  {
+    "ts": "2026-05-25T04:32:54.180Z",
+    "label": "course-2054503080100855916",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 886,
+    "completion_tokens": 3542,
+    "total_tokens": 4428
+  },
+  {
+    "ts": "2026-05-25T04:35:03.228Z",
+    "label": "course-2054583150257328259",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 931,
+    "completion_tokens": 3893,
+    "total_tokens": 4824
+  },
+  {
+    "ts": "2026-05-25T04:38:17.996Z",
+    "label": "course-2054617939123605898",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 920,
+    "completion_tokens": 4107,
+    "total_tokens": 5027
+  },
+  {
+    "ts": "2026-05-25T04:40:56.406Z",
+    "label": "course-2054628957354684876",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 937,
+    "completion_tokens": 5370,
+    "total_tokens": 6307
+  },
+  {
+    "ts": "2026-05-25T04:45:00.313Z",
+    "label": "course-2054652251894170060",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 986,
+    "completion_tokens": 5425,
+    "total_tokens": 6411
+  },
+  {
+    "ts": "2026-05-25T04:49:36.956Z",
+    "label": "course-2054656658908000314",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 957,
+    "completion_tokens": 4872,
+    "total_tokens": 5829
+  },
+  {
+    "ts": "2026-05-25T04:54:25.514Z",
+    "label": "course-2054662049091752149",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 976,
+    "completion_tokens": 6000,
+    "total_tokens": 6976
+  },
+  {
+    "ts": "2026-05-25T04:57:32.924Z",
+    "label": "course-2054680867377754148",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1002,
+    "completion_tokens": 4140,
+    "total_tokens": 5142
+  },
+  {
+    "ts": "2026-05-25T04:59:50.302Z",
+    "label": "course-2054927850541588792",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 990,
+    "completion_tokens": 4349,
+    "total_tokens": 5339
+  },
+  {
+    "ts": "2026-05-25T05:04:10.106Z",
+    "label": "course-2055054437987795316",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1015,
+    "completion_tokens": 6000,
+    "total_tokens": 7015
+  },
+  {
+    "ts": "2026-05-25T05:06:53.192Z",
+    "label": "course-2055237421906767887",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 936,
+    "completion_tokens": 4181,
+    "total_tokens": 5117
+  },
+  {
+    "ts": "2026-05-25T05:11:01.758Z",
+    "label": "course-2055237756318781502",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 961,
+    "completion_tokens": 4893,
+    "total_tokens": 5854
+  },
+  {
+    "ts": "2026-05-25T05:13:40.174Z",
+    "label": "course-2055238100079808996",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 990,
+    "completion_tokens": 4163,
+    "total_tokens": 5153
+  },
+  {
+    "ts": "2026-05-25T05:16:41.778Z",
+    "label": "course-2055259445316166034",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 901,
+    "completion_tokens": 4121,
+    "total_tokens": 5022
+  },
+  {
+    "ts": "2026-05-25T05:18:56.692Z",
+    "label": "course-2055259963422081103",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 881,
+    "completion_tokens": 3245,
+    "total_tokens": 4126
+  },
+  {
+    "ts": "2026-05-25T05:23:43.485Z",
+    "label": "course-2055260045445873668",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 3354,
+    "completion_tokens": 6000,
+    "total_tokens": 9354
+  },
+  {
+    "ts": "2026-05-25T05:25:54.122Z",
+    "label": "course-2055267934096986340",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 886,
+    "completion_tokens": 3560,
+    "total_tokens": 4446
+  },
+  {
+    "ts": "2026-05-25T05:29:32.646Z",
+    "label": "course-2055271354325180488",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 797,
+    "completion_tokens": 6000,
+    "total_tokens": 6797
+  },
+  {
+    "ts": "2026-05-25T05:33:35.142Z",
+    "label": "course-2055280130478473247",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 996,
+    "completion_tokens": 4847,
+    "total_tokens": 5843
+  },
+  {
+    "ts": "2026-05-25T05:36:04.557Z",
+    "label": "course-2055294397475148123",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 904,
+    "completion_tokens": 3759,
+    "total_tokens": 4663
+  },
+  {
+    "ts": "2026-05-25T05:38:54.819Z",
+    "label": "course-2055305299007778833",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 934,
+    "completion_tokens": 3471,
+    "total_tokens": 4405
+  },
+  {
+    "ts": "2026-05-25T05:54:07.039Z",
+    "label": "course-2055313323063726222",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 904,
+    "completion_tokens": 6000,
+    "total_tokens": 6904
+  },
+  {
+    "ts": "2026-05-25T06:05:49.090Z",
+    "label": "course-2055314153011581152",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1072,
+    "completion_tokens": 6000,
+    "total_tokens": 7072
+  },
+  {
+    "ts": "2026-05-25T06:09:38.526Z",
+    "label": "course-2055326692051390540",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 966,
+    "completion_tokens": 5340,
+    "total_tokens": 6306
+  },
+  {
+    "ts": "2026-05-25T06:13:47.046Z",
+    "label": "course-2055330252830671304",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 959,
+    "completion_tokens": 4555,
+    "total_tokens": 5514
+  },
+  {
+    "ts": "2026-05-25T06:18:46.811Z",
+    "label": "course-2055335043904492011",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1495,
+    "completion_tokens": 6000,
+    "total_tokens": 7495
+  },
+  {
+    "ts": "2026-05-25T06:23:35.819Z",
+    "label": "course-2055355485608456517",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1037,
+    "completion_tokens": 5731,
+    "total_tokens": 6768
+  },
+  {
+    "ts": "2026-05-25T06:27:56.036Z",
+    "label": "course-2055362998160458203",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 973,
+    "completion_tokens": 5919,
+    "total_tokens": 6892
+  },
+  {
+    "ts": "2026-05-25T06:31:26.764Z",
+    "label": "course-2055422737498435765",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 882,
+    "completion_tokens": 4068,
+    "total_tokens": 4950
+  },
+  {
+    "ts": "2026-05-25T06:34:16.059Z",
+    "label": "course-2055449716570063207",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 919,
+    "completion_tokens": 3644,
+    "total_tokens": 4563
+  },
+  {
+    "ts": "2026-05-25T06:39:04.628Z",
+    "label": "course-2055525968908063033",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 974,
+    "completion_tokens": 5880,
+    "total_tokens": 6854
+  },
+  {
+    "ts": "2026-05-25T06:53:35.606Z",
+    "label": "course-2055550382030623027",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1003,
+    "completion_tokens": 5279,
+    "total_tokens": 6282
+  },
+  {
+    "ts": "2026-05-25T06:57:31.762Z",
+    "label": "course-2055566422298816803",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 980,
+    "completion_tokens": 4806,
+    "total_tokens": 5786
+  },
+  {
+    "ts": "2026-05-25T07:01:07.179Z",
+    "label": "course-2055586444094108072",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "provider": "OpenRouter",
+    "prompt_tokens": 1044,
+    "completion_tokens": 5705,
+    "total_tokens": 6749
+  },
+  {
+    "ts": "2026-05-25T17:54:39.510Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 453,
+    "completion_tokens": 84,
+    "total_tokens": 537
+  },
+  {
+    "ts": "2026-05-25T18:02:38.919Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 453,
+    "completion_tokens": 82,
+    "total_tokens": 535
+  },
+  {
+    "ts": "2026-05-25T18:02:53.427Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 423,
+    "completion_tokens": 142,
+    "total_tokens": 565
+  },
+  {
+    "ts": "2026-05-25T18:17:54.594Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 453,
+    "completion_tokens": 63,
+    "total_tokens": 516
+  },
+  {
+    "ts": "2026-05-25T18:20:44.472Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 450,
+    "completion_tokens": 96,
+    "total_tokens": 546
+  },
+  {
+    "ts": "2026-05-25T18:21:13.547Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 420,
+    "completion_tokens": 111,
+    "total_tokens": 531
+  },
+  {
+    "ts": "2026-05-25T18:21:26.429Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 456,
+    "completion_tokens": 81,
+    "total_tokens": 537
+  },
+  {
+    "ts": "2026-05-25T18:22:54.689Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 426,
+    "completion_tokens": 86,
+    "total_tokens": 512
+  },
+  {
+    "ts": "2026-05-25T18:23:02.730Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 432,
+    "completion_tokens": 60,
+    "total_tokens": 492
+  },
+  {
+    "ts": "2026-05-25T18:24:00.211Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 402,
+    "completion_tokens": 82,
+    "total_tokens": 484
+  },
+  {
+    "ts": "2026-05-25T18:24:09.922Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 466,
+    "completion_tokens": 66,
+    "total_tokens": 532
+  },
+  {
+    "ts": "2026-05-25T18:25:31.456Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 436,
+    "completion_tokens": 112,
+    "total_tokens": 548
+  },
+  {
+    "ts": "2026-05-25T18:25:36.202Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 426,
+    "completion_tokens": 56,
+    "total_tokens": 482
+  },
+  {
+    "ts": "2026-05-25T18:26:58.658Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 396,
+    "completion_tokens": 90,
+    "total_tokens": 486
+  },
+  {
+    "ts": "2026-05-25T18:27:14.859Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 421,
+    "completion_tokens": 59,
+    "total_tokens": 480
+  },
+  {
+    "ts": "2026-05-25T18:28:32.324Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 391,
+    "completion_tokens": 82,
+    "total_tokens": 473
+  },
+  {
+    "ts": "2026-05-25T18:28:44.052Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 451,
+    "completion_tokens": 65,
+    "total_tokens": 516
+  },
+  {
+    "ts": "2026-05-25T18:30:57.369Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 421,
+    "completion_tokens": 84,
+    "total_tokens": 505
+  },
+  {
+    "ts": "2026-05-25T18:31:22.985Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 447,
+    "completion_tokens": 69,
+    "total_tokens": 516
+  },
+  {
+    "ts": "2026-05-25T18:32:01.026Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 417,
+    "completion_tokens": 110,
+    "total_tokens": 527
+  },
+  {
+    "ts": "2026-05-25T18:32:13.349Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 430,
+    "completion_tokens": 77,
+    "total_tokens": 507
+  },
+  {
+    "ts": "2026-05-25T18:33:17.019Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 400,
+    "completion_tokens": 116,
+    "total_tokens": 516
+  },
+  {
+    "ts": "2026-05-25T18:33:27.120Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 430,
+    "completion_tokens": 61,
+    "total_tokens": 491
+  },
+  {
+    "ts": "2026-05-25T18:34:34.452Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 430,
+    "completion_tokens": 68,
+    "total_tokens": 498
+  },
+  {
+    "ts": "2026-05-25T18:35:52.911Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 442,
+    "completion_tokens": 59,
+    "total_tokens": 501
+  },
+  {
+    "ts": "2026-05-25T18:36:12.676Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 412,
+    "completion_tokens": 96,
+    "total_tokens": 508
+  },
+  {
+    "ts": "2026-05-25T18:36:22.986Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 420,
+    "completion_tokens": 60,
+    "total_tokens": 480
+  },
+  {
+    "ts": "2026-05-25T18:56:27.030Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 421,
+    "completion_tokens": 79,
+    "total_tokens": 500
+  },
+  {
+    "ts": "2026-05-25T18:57:10.218Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 391,
+    "completion_tokens": 109,
+    "total_tokens": 500
+  },
+  {
+    "ts": "2026-05-25T18:57:16.917Z",
+    "label": "assets",
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "provider": "NVIDIA-NIM",
+    "prompt_tokens": 460,
+    "completion_tokens": 73,
+    "total_tokens": 533
+  }
+]

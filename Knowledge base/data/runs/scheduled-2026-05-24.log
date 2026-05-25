@@ -1,0 +1,24 @@
+[2026-05-24T10:28:58.349Z] ====================================================
+[2026-05-24T10:28:58.357Z] KnowledgeBase Daily Scheduled Import — 2026-05-24
+[2026-05-24T10:28:58.360Z] ====================================================
+[2026-05-24T10:28:58.361Z] START: Import X Likes
+[2026-05-24T10:28:58.362Z] CMD:   node scripts/import-x-likes.js --limit 50
+[2026-05-24T10:30:59.041Z] DONE:  Import X Likes in 120.7s
+[2026-05-24T10:30:59.042Z] START: Extract Sources
+[2026-05-24T10:30:59.042Z] CMD:   node scripts/import-x-source.js
+[2026-05-24T10:32:47.041Z] DONE:  Extract Sources in 108.0s
+[2026-05-24T10:32:47.045Z] START: Classify Topics
+[2026-05-24T10:32:47.046Z] CMD:   node scripts/classify-source.js
+[2026-05-24T10:32:47.245Z] ERROR: Classify Topics failed after 0.2s — Command failed: node scripts/classify-source.js
+[2026-05-24T10:32:47.246Z] START: Compile Courses
+[2026-05-24T10:32:47.246Z] CMD:   node scripts/compile-course.js
+[2026-05-24T10:32:47.394Z] DONE:  Compile Courses in 0.1s
+[2026-05-24T10:32:47.394Z] START: Summarize Topics
+[2026-05-24T10:32:47.395Z] CMD:   node scripts/update-topic-summary.js
+[2026-05-24T10:49:19.027Z] DONE:  Summarize Topics in 991.6s
+[2026-05-24T10:49:19.029Z] START: Build Graph
+[2026-05-24T10:49:19.029Z] CMD:   node scripts/build-graph.js
+[2026-05-24T10:49:19.262Z] DONE:  Build Graph in 0.2s
+[2026-05-24T10:49:19.263Z] ====================================================
+[2026-05-24T10:49:19.263Z] Daily scheduled run complete.
+[2026-05-24T10:49:19.264Z] ====================================================
