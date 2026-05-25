@@ -129,3 +129,15 @@ The agent walks the repository tree, runs similarity detection (e.g., using `rad
 - **Evaluation Benchmarks**: Review existing benchmarks for agent performance (e.g., GAIA, AgentBench, WebArena) to understand how to measure success, efficiency, and reliability of autonomous agents.  
 
 By mastering the concepts, workflows, and precautions outlined above, you will be equipped to leverage the `/goal` feature—and autonomous AI agents more generally—as a force multiplier for productivity, innovation, and operational efficiency. Happy building!
+
+<!-- auto-diagram -->
+```mermaid
+flowchart LR
+    A[User Input: /goal] --> B[Agent Parses Objective]
+    B --> C[Decompose into Sub-tasks]
+    C --> D[Select Tools/APIs]
+    D --> E[Execute Sub-tasks]
+    E --> F{Goal Achieved?}
+    F -->|No| C
+    F -->|Yes| G[Return Results]
+```

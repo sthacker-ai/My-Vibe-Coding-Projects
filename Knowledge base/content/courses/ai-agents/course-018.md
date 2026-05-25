@@ -136,3 +136,15 @@ One frequent mistake is launching too many subagents simultaneously without cons
 - Investigate integrating Claude Code workflows with external CI/CD systems (GitHub Actions, GitLab CI) to trigger background tasks from push events.  
 - Read about concurrent programming models (actors, futures, promises) to better design parallel workflows that avoid shared‑state hazards.  
 - Experiment with building domain‑specific language (DSL) wrappers around the Claude Code CLI to simplify repetitive workflow definitions for your team or organization.
+
+<!-- auto-diagram -->
+```mermaid
+flowchart LR
+    A[Complex Software Task] --> B{Orchestration Layer};
+    B --> C[Subagents/Teams];
+    C --> D[Delegated Work];
+    D --> E{Parallel Workflows};
+    E --> F[Background Tasks];
+    F --> G[Concurrent Execution];
+    G --> H[Completed Solution];
+```
